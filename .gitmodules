@@ -1,0 +1,3 @@
+[submodule "cloud_func"]
+	path = cloud_func
+	url = git@github.com:kronosmichall/bucket_to_bigquery_lambda.git
