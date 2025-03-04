@@ -1,0 +1,5 @@
+.mypy_cache
+cloud_func
+lambda
+.env
+service_account.json
